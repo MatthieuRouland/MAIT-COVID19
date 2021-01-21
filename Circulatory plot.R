@@ -1,6 +1,7 @@
 #==========================================
 # Title:  Circulatory plot 
 # Author: Matthieu Rouland
+# Acknowledgments and adapted from: the R Graph Gallery by Yan Holtz   
 # Affiliation: Institut Cochin, INSERM U1016, CNRS UMR 8104, Université de Paris, Paris, France.
 # License: CC-BY-SA-4.0 
 # Date: 20.08.2020
