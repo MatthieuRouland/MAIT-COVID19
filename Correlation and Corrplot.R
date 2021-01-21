@@ -1,3 +1,12 @@
+#==========================================
+# Title: Correlation and Corrplot
+# Author: Matthieu Rouland
+# Affiliation: Institut Cochin, INSERM U1016, CNRS UMR 8104, Université de Paris, Paris, France.
+# Acknowledgment: Taiyun for the Corrplot package.
+# License: CC-BY-SA-4.0 
+# Date: 15.07.2020
+#==========================================
+
 ##
 
 library(ggplot2)
