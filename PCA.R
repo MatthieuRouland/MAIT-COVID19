@@ -2,6 +2,7 @@
 # Title:  PCA
 # Author: Matthieu Rouland
 # Affiliation: Institut Cochin, INSERM U1016, CNRS UMR 8104, Université de Paris, Paris, France.
+# Acknowledgments: Dr. Marc Diedisheim for advice and coding help.
 # License: CC-BY-SA-4.0 
 # Date: 20.08.2020
 #==========================================
