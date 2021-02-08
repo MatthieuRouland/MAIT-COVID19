@@ -27,8 +27,8 @@ for (i in 6:length(data)){
   x <- (data  %>% select(i) %>% filter(data$Death == "Dead"))
   y <- (data  %>% select(i) %>% filter(data$Death == "Alive"))
   
-  print(lenght(x))
-  print(lenght(y))
+  print(length(x))
+  print(length(y))
   pvalues <- wilcox.test(as.matrix(x),as.matrix(y))
   print(paste0(colnames(x),"___",pvalues$p.value))
   final <- append(final, paste0(colnames(x),"___",pvalues$p.value))
