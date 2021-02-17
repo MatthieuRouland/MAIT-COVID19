@@ -5,6 +5,7 @@
 # Acknowledgments: Dr. Marc Diedisheim for advice and coding help.
 # License: CC-BY-SA-4.0 
 # Date: 20.08.2020
+# Doi: https://doi.org/10.1038/s41590-021-00870-z
 #==========================================
 
 #--Settings--#
